@@ -1,0 +1,39 @@
+#img1{
+    background-image:url(./istockphoto-1322838356-170667a.jpg) ;
+    background-repeat:no-repeat ;
+    background-size:cover ;
+    padding: 0 0 25rem 0;
+}
+#loop{
+    background-color: blueviolet;
+}
+#web{
+    background-color: blueviolet;
+}
+/* #net{
+    width: 100%;
+ 
+} */
+#mt{
+    margin-top: -3rem;
+    background-color: blueviolet;
+}
+#air{
+    background-color: blueviolet;
+}
+#air1{
+    background-color: blueviolet;
+}
+#p{
+    color: blue;
+}
+#r{
+color: chartreuse;
+}
+#s{
+color: deeppink;
+}
+#cam{
+background-color: rgb(3, 3, 37);
+}
+
